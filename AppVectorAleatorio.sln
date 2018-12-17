@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppVectorAleatorio", "AppVectorAleatorio\AppVectorAleatorio.csproj", "{7B75D988-172B-498C-AD54-DEB37AD84606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B75D988-172B-498C-AD54-DEB37AD84606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B75D988-172B-498C-AD54-DEB37AD84606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B75D988-172B-498C-AD54-DEB37AD84606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B75D988-172B-498C-AD54-DEB37AD84606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42A1569E-92D6-4671-9215-363A08ADAADC}
+	EndGlobalSection
+EndGlobal
